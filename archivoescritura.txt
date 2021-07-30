@@ -1,0 +1,1 @@
+{'actual': [6.188, -75.974], 'zonawifi1': [6.125, -75.966, 109], 'recorrido': [7063, 'En auto tardarías ', '5.65 minutos', 'moto', 6.06]}
